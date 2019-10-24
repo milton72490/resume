@@ -27,13 +27,13 @@
 >> - Developed a monthly itinerary for daily product counts to ensure</br>  consistent and accurate inventory levels
 
 > **Assistant Store Manager** / *Wal-Mart / Chicago, IL* / __Nov. 2008 - April 2016__
->> - Supervised and managed over 60 employees through their daily shifts
+>> * Supervised and managed over 60 employees through their daily shifts
 >> - Ensured store hit it's monthly sales goals. While under my management </br> the store grossed $20 million in anual sales
 >> - Recruited potential new hires by conducting meetings with the store </br> manager to determine the staffing needs of our store
 
 ### 02. Education
 > **Designation/Flatiron Schools** *in Chicago, IL* </br>
->> *Field:* UX Design
+>> *Field:* UX Design </br>
 >> *__Feb 2019 - Aug 2019__*
 
 
