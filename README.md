@@ -7,3 +7,5 @@
 > *email*: [milton72490@gmail.com](mailto:milton72490@gmail.com) </br>
 > *portfolio*: [aaronmiltondesign.com](https://www.aaronmiltondesign.com)
 -----------------------------
+# 01. Education
+> **UX Designer** / *BidPro LLC. / Chicago, IL* __Jun. 2019 - Aug 2019__
