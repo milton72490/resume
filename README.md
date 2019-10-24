@@ -9,5 +9,5 @@
 -----------------------------
 ### 01. Education
 > **UX Designer** / *BidPro LLC. / Chicago, IL* / __Jun. 2019 - Aug 2019__
->>Worked on a team comprised of four designers to test usability on the current </br> state of the home improvement app and improve the end to end flow for BidPro. </br> As a team we did a deep dive into the highly competitive market to find where </br> BidPro had the opportunity to thrive. 
->> *Conducted 1 on 1 interviews with users to discover pain points in the </br> current state of the app
+>>Worked on a team comprised of four designers to test usability on the current </br> state of the home improvement app and improve the end to end flow for BidPro. </br> As a team we did a deep dive into the highly competitive market to find where </br> BidPro had the opportunity to thrive. </br>
+>> - Conducted 1 on 1 interviews with users to discover pain points in the </br> current state of the app
