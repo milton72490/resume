@@ -36,5 +36,8 @@
 >> *Field:* UX Design </br>
 >> *__Feb 2019 - Aug 2019__*
 
+> **Southern Illinois University** *in Carbondale, IL* </br>
+>> *Bachelor of Arts in Industrial and Organizational Psychology* </br> 
+>> *__May of 2012__* </br> 
 
 
