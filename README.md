@@ -30,3 +30,11 @@
 >> - Supervised and managed over 60 employees through their daily shifts
 >> - Ensured store hit it's monthly sales goals. While under my management </br> the store grossed $20 million in anual sales
 >> - Recruited potential new hires by conducting meetings with the store </br> manager to determine the staffing needs of our store
+
+### 02. Education
+> **Designation/Flatiron Schools** *in Chicago, IL* </br>
+>> *Field:* UX Design
+>> *__Feb 2019 - Aug 2019__*
+
+
+
