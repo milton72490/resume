@@ -1,5 +1,5 @@
-<center> # I'm Aaron Milton </center> 
-<center> # I'm a UX Designer in Chicago, IL </center> 
+# I'm Aaron Milton 
+# I'm a UX Designer in Chicago, IL
 
 -----------------------------
 ** ###About Me **
