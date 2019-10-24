@@ -3,6 +3,7 @@
 
 -----------------------------
 **About Me**
-> *phone*: 872-800-2014
-> *email*: [milton72490@gmail.com](mailto: milton72490@gmail.com)
+> *phone*: 872-800-2014 </br>
+> *email*: [milton72490@gmail.com](mailto: milton72490@gmail.com) </br>
 > *portfolio*: [aaronmiltondesign.com](https://www.aaronmiltondesign.com)
+-----------------------------
